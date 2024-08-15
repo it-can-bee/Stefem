@@ -8,7 +8,7 @@
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Jeffy-s3n)
 
 [![Rust Python C](https://img.shields.io/badge/Rust/Python/C%20-blue)](https://www.cnblogs.com/live-passion) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/热爱-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-技术追求-red)
 
