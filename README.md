@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-can-bee&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-can-bee&show_icons=true&theme=tokyonight)](https://github.com/it-can-bee)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-JeffyItweb%20-yello)]((https://www.zhihu.com/people/can-can-71-4))
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Jeffy-s3n)
